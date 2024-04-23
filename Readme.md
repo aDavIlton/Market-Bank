@@ -17,3 +17,11 @@ opção do usuário consumidor seguir o supermercado
 aba de notificação no perfil do usuário consumidor
 aba de pesquisa de supermercados e produtos
 supermercado pode fazer o CRUD de seus produtos
+
+PRICIPAIS FUNCIONALIDADES
+Módulo de login:Realiza o cadastro, login, redefine a senha do usuário, deleta as informações e acrescenta essas informmações no banco de dados.
+Vizualização de produtos: O cliente vai acessar os produtos na sessão.
+Gerenciar Pedidos: O cliente faz o pedido do seu produto no site, os pedidos podem ser atualizados, excluídos e alterados.
+Realizar Pedidos: O cliente poderá fazer seu pedido que será enviado ao mercado, ele também pode atualizar, excluir e alterar os pedidos.
+Gerenciar Produtos: O dono do mercado pode alterar, excluir e adicionar novos produtos ao seu mercado.
+Gerenciar Clientes: O administrador geral gerencia,exclui, altera ou atualiza os clientes.
